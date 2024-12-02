@@ -235,3 +235,25 @@ If you have questions or require assistance, contact us by email.
 ### 32. **Severability**
 In case any part of the ToS is deemed invalid:
 - **Severability:** If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+  
+---
+
+### 33. Assignment or Sale of Legal Recourse
+AI-AutoForge reserves the right to assign, transfer, or sell its rights to pursue legal recourse for violations of these Terms to third parties, including but not limited to:
+
+Intellectual property infringement.
+Hacking, security breaches, or attempts to circumvent authentication systems.
+Breaches of geographic or jurisdictional restrictions.
+Misuse of the App for illegal or unethical purposes.
+Any third party to whom such rights are assigned or sold is authorized to enforce these Terms on behalf of AI-AutoForge, including initiating legal actions or other enforcement measures against violators.
+
+---
+### 34. Applicability and User Responsibility
+
+1. Applicability of Terms
+These Terms of Service govern your use of AI-AutoForge, and any claim or assertion that these Terms do not apply is invalid and without effect.
+By using the App, you agree to be bound by these Terms and to comply with all provisions stated herein.
+2. Compliance with Local Laws
+Users are solely responsible for ensuring that their use of the App complies with all applicable local, national, and international laws.
+If the use of the App is prohibited in your jurisdiction, you agree not to access or use the App.
+Assumption of Liability: Users assume full responsibility for any legal or regulatory consequences arising from their failure to comply with local laws or these Terms. AI-AutoForge is not liable for any misuse of the App in violation of local regulations.
