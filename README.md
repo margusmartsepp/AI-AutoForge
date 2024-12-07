@@ -1,5 +1,9 @@
 # AI AutoForge
 
+<p align="center">
+  <img src="images/logo.png" alt="AI AutoForge Logo" width="200"/>
+</p>
+
 AI AutoForge is a state-of-the-art platform designed to interact with and harness multiple AI models. Currently in development (v0.1.38), it serves as an intelligent workspace where users can experiment with different AI models, compare their capabilities, and automate complex AI workflows.
 
 ## Overview
